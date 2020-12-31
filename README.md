@@ -15,9 +15,9 @@ The goal of this exercise is to create a product to highlight the prediction alg
 This repository contains the ui.R and server.R files for the developed Shiny Application as well as the RStudio Presenter files for the Data Science Capstone Course Project.
 
 
-###### The developed Shiny app for the the assignment is available [here](https://samaaessa.shinyapps.io/CourseraDataScienceCapstoneCourseProject/)
+##### The developed Shiny app for the the assignment is available [here](https://samaaessa.shinyapps.io/CourseraDataScienceCapstoneCourseProject/)
 
-###### The pitch presentation is available [here](https://rpubs.com/samaaessa/708816)
+##### The pitch presentation is available [here](https://rpubs.com/samaaessa/708816)
 
 
 #### Runbook
